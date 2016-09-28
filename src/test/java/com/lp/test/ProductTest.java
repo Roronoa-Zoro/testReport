@@ -18,7 +18,7 @@ public class ProductTest {
 	public void updateProduct() {
 		Product p = ps.updateProduct(2);
 		assertEquals(2, p.getId());
-		assertEquals(30, p.getPrice());
+		assertEquals(6, p.getPrice());
 	}
 
 }
