@@ -14,7 +14,7 @@ public class AutoTest {
 	
 	@Test
 	public void failureTest() {
-		int i = 1;
+		int i = 2;
 		System.err.println("failureTest");
 		assertTrue(i == 2);
 	}

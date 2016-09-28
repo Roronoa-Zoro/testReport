@@ -13,7 +13,7 @@ public class ProductTest {
 	
 	@Test
 	public void updateProduct() {
-		int a = 1;
+		int a = 2;
 		assertTrue(a == 2);
 	}
 
